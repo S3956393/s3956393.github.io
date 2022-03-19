@@ -179,17 +179,6 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     }
 
     
-    @media all and (min-width: 602px) and (max-width: 800px) {
-        #headshot {
-            display: none;
-        }
-        
-        .keySkills {
-        -moz-column-count:2;
-        -webkit-column-count:2;
-        column-count:2;
-        }
-    }
     
     @media all and (max-width: 601px) {
         #cv {
@@ -198,9 +187,6 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
             min-width: 280px;
         }
         
-        #headshot {
-            display: none;
-        }
         
         #name, #contactDetails {
             float: none;
@@ -218,11 +204,6 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
             font-size: 1.25em;
         }
         
-        .keySkills {
-            -moz-column-count:2;
-            -webkit-column-count:2;
-            column-count:2;
-        }
     }
     
     @media all and (max-width: 480px) {
@@ -238,12 +219,6 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
             padding: 0 25px;
         }
     
-        
-        .keySkills {
-        -moz-column-count:1;
-        -webkit-column-count:1;
-        column-count:1;
-        }
         
         #name h1 {
             line-height: .8em;
