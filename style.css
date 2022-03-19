@@ -79,21 +79,6 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
         text-align: center;
     }
     
-    #contactDetails li {
-        margin-bottom: 3px;
-        color: #B6BCCC;
-    }
-    
-    #contactDetails li a, a[href^=tel] {
-        color: #B6BCCC; 
-        text-decoration: none;
-        -webkit-transition: all .3s ease-in;
-        -moz-transition: all .3s ease-in;
-        -o-transition: all .3s ease-in;
-        -ms-transition: all .3s ease-in;
-        transition: all .3s ease-in;
-    }
-    
     #contactDetails li a:hover { 
         color: #2B2D42;
     }
